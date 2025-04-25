@@ -1,4 +1,4 @@
-# First task
+# second task
 
-* add a new paragraph.
-* add another paragraph.
+* hello this is Ali Abubaker.
+* learning git and github.
